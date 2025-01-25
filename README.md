@@ -1,3 +1,7 @@
+ARCHIVE NOTICE
+
+Please see https://github.com/atoma-network/atoma-testground
+
 # End to end test dev environment for the Atoma Network
 
 
